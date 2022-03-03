@@ -1,0 +1,3 @@
+[submodule "DjangoSqlPrinter"]
+	path = DjangoSqlPrinter
+	url = git@github.com:Rwwwrl/DjangoSqlPrinter.git
