@@ -1,3 +1,6 @@
 [submodule "DjangoSqlPrinter"]
 	path = DjangoSqlPrinter
 	url = git@github.com:Rwwwrl/DjangoSqlPrinter.git
+[submodule "database_installer"]
+	path = database_installer
+	url = git@github.com:Rwwwrl/database_installer.git
